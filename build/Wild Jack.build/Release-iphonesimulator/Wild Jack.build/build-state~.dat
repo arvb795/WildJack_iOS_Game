@@ -1,0 +1,1379 @@
+TWild Jack
+v7
+r0
+t312127209.447521
+cCheck dependencies
+cProcessInfoPlistFile "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Info.plist" Resources/Info.plist
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/fps_images.png" Resources/fps_images.png
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/background-music-aac.caf" Resources/background-music-aac.caf
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/pew-pew-lei.caf" Resources/pew-pew-lei.caf
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/continuebutton.gif" Resources/continuebutton.gif
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/Exitbutton.gif" Resources/Exitbutton.gif
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/aeshback.png" Resources/aeshback.png
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/Default.png" Resources/Default.png
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/credits.png" Resources/credits.png
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/menuback.png" Resources/menuback.png
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/new.png" Resources/new.png
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/player.png" Resources/player.png
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/Projectile.png" Resources/Projectile.png
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/score.png" Resources/score.png
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/Target.png" Resources/Target.png
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/pauseBackground.gif" Resources/pauseBackground.gif
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/icon.png" Resources/icon.png
+cCpResource "build/Release-iphonesimulator/Wild Jack.app/pausebutton.gif" Resources/pausebutton.gif
+cProcessPCH "/var/folders/J7/J7R6mIz7GLyZLIk7dqlMhU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wild Jack_Prefix-dvxhygypwtlnrxdorpoiebjfxsrq/Wild Jack_Prefix.pch.gch" "Wild Jack_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/main.o" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/simpleAppDelegate.o" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/simpleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/HelloWorldScene.o" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/HelloWorldScene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/GameOverScene.o" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/GameOverScene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/MenuScene.o" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/MenuScene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Wild Jack" normal i386
+cGenerateDSYMFile "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app.dSYM" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Wild Jack"
+cTouch "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C52D3780000000000000132
+t1280496504
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C01F5AE00000000000C05A0
+t1275196846
+s787872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004C01F5AA000000000000065C
+t1275196842
+s1628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004BFF3B7600000000001C8900
+t1275018102
+s1870080
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004BFF3B620000000000000A23
+t1275018082
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFURL.h
+c000000004BFDFD72000000000000A48C
+t1274936690
+s42124
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004BFDFDB200000000000022F0
+t1274936754
+s8944
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h
+c000000004BFDFDB20000000000002650
+t1274936754
+s9808
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004BFF3B9500000000000064FD
+t1275018133
+s25853
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004BFF3B950000000000001F45
+t1275018133
+s8005
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004BFF3B9A00000000000244F0
+t1275018138
+s148720
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004BFDFF0A000000000000094F
+t1274937098
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004BFDFF0A0000000000000A61
+t1274937098
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004BFDFF0A0000000000009369
+t1274937098
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004BFDFF0A0000000000003C4A
+t1274937098
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004BFDFF120000000000019D60
+t1274937106
+s105824
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C0458E90000000000151D30
+t1275353321
+s1383728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/inttypes.h
+c000000004A5C14A600000000000027D1
+t1247548582
+s10193
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/objc/objc.h
+c000000004BFDF9F40000000000000A2F
+t1274935796
+s2607
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sys/time.h
+c000000004A73D6550000000000001E17
+t1249105493
+s7703
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A1198340000000000003197
+t1242667060
+s12695
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/libz.dylib
+c000000004AD4F6ED0000000000005D2C
+t1255470829
+s23852
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/GameOverScene.h
+c000000004CEA77350000000000000102
+t1290434357
+s258
+i"cocos2d.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/GameOverScene.m
+c000000004CEA7735000000000000048E
+t1290434357
+s1166
+i"GameOverScene.h"
+i"HelloWorldScene.h"
+i"MenuScene.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/HelloWorldScene.h
+c000000004CEA773500000000000001CE
+t1290434357
+s462
+i"cocos2d.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/HelloWorldScene.m
+c000000004CEA773500000000000025E4
+t1290434357
+s9700
+i"SimpleAudioEngine.h"
+i"HelloWorldScene.h"
+i"GameOverScene.h"
+i"MenuScene.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/MenuScene.h
+c000000004CEA77350000000000000092
+t1290434357
+s146
+i"cocos2d.h"
+i<UIKit/UIKit.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/MenuScene.m
+c000000004CEA77350000000000000561
+t1290434357
+s1377
+i"MenuScene.h"
+i"HelloWorldScene.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/simpleAppDelegate.h
+c000000004CEA773500000000000000A8
+t1290434357
+s168
+i<UIKit/UIKit.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/simpleAppDelegate.m
+c000000004CEA77350000000000000911
+t1290434357
+s2321
+i"simpleAppDelegate.h"
+i"cocos2d.h"
+i"MenuScene.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/Default.png
+c000000004CE0E7B70000000000007838
+t1289807799
+s30776
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/Exitbutton.gif
+c000000004C6348530000000000000329
+t1281574995
+s809
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/Projectile.png
+c000000004CE270830000000000000430
+t1289908355
+s1072
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/Target.png
+c000000004CE26F4E00000000000002BB
+t1289908046
+s699
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/aeshback.png
+c000000004CE0D9F00000000000007C63
+t1289804272
+s31843
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/background-music-aac.caf
+c000000004B627828000000000003FAD8
+t1264744488
+s260824
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/continuebutton.gif
+c000000004C6347E40000000000000648
+t1281574884
+s1608
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/credits.png
+c000000004CE271A400000000000008BB
+t1289908644
+s2235
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/fps_images.png
+c000000004CD6F396000000000000183B
+t1289155478
+s6203
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/icon.png
+c000000004CEA22E60000000000000E0B
+t1290412774
+s3595
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/menuback.png
+c000000004CE26B37000000000000F287
+t1289906999
+s62087
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/new.png
+c000000004CE2716A000000000000078C
+t1289908586
+s1932
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/pauseBackground.gif
+c000000004C634715000000000000011A
+t1281574677
+s282
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/pausebutton.gif
+c000000004CEA729E00000000000003D6
+t1290433182
+s982
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/pew-pew-lei.caf
+c000000004B6276D2000000000000D100
+t1264744146
+s53504
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/player.png
+c000000004CE26F0E000000000000020F
+t1289907982
+s527
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/score.png
+c000000004CE2724100000000000005FE
+t1289908801
+s1534
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Wild Jack_Prefix.pch
+c000000004CD6F39600000000000000AF
+t1289155478
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app
+t1290434409
+s748
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app.dSYM
+t1290434409
+s102
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Default.png
+t1290434407
+s30776
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Exitbutton.gif
+t1290434407
+s809
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Info.plist
+t1290434407
+s610
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/PkgInfo
+t1290434407
+s8
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Projectile.png
+t1290434407
+s1072
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Target.png
+t1290434407
+s699
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Wild Jack
+t1290434409
+s1234932
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/aeshback.png
+t1290434407
+s31843
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/background-music-aac.caf
+t1290434407
+s260824
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/continuebutton.gif
+t1290434407
+s1608
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/credits.png
+t1290434407
+s2235
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/fps_images.png
+t1290434407
+s6203
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/icon.png
+t1290434407
+s3595
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/menuback.png
+t1290434407
+s62087
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/new.png
+t1290434407
+s1932
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/pauseBackground.gif
+t1290434407
+s282
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/pausebutton.gif
+t1290434407
+s982
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/pew-pew-lei.caf
+t1290434407
+s53504
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/player.png
+t1290434407
+s527
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/score.png
+t1290434407
+s1534
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/libcocos2d libraries.a
+c000000004CEA776700000000003ADFB8
+t1290434407
+s3858360
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/GameOverScene.o
+t1290434408
+s52532
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/HelloWorldScene.o
+t1290434408
+s72644
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/MenuScene.o
+t1290434408
+s54352
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/Wild Jack.LinkFileList
+c000000004CEA7767000000000000030A
+t1290434407
+s778
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/main.o
+t1290434408
+s6460
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/simpleAppDelegate.o
+t1290434408
+s59152
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/CocosDenshion/CDAudioManager.h
+c000000004CD6F396000000000000225E
+t1289155478
+s8798
+i"CocosDenshion.h"
+i<AVFoundation/AVFoundation.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/CocosDenshion/CDConfig.h
+c000000004CD6F3960000000000000A9A
+t1289155478
+s2714
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/CocosDenshion/CDOpenALSupport.h
+c000000004CD6F3960000000000000CF9
+t1289155478
+s3321
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<CoreFoundation/CFURL.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/CocosDenshion/CocosDenshion.h
+c000000004CD6F39600000000000035AC
+t1289155478
+s13740
+i<UIKit/UIKit.h>
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+i"CDConfig.h"
+i"CDOpenALSupport.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/CocosDenshion/SimpleAudioEngine.h
+c000000004CD6F3960000000000000EE0
+t1289155478
+s3808
+i"CDAudioManager.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCAction.h
+c000000004CD6F396000000000000165C
+t1289155478
+s5724
+i<UIKit/UIKit.h>
+i<sys/time.h>
+i"ccTypes.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCActionManager.h
+c000000004CD6F3960000000000001072
+t1289155478
+s4210
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCAtlasNode.h
+c000000004CD6F3960000000000000C4A
+t1289155478
+s3146
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCBitmapFontAtlas.h
+c000000004CD6F3960000000000001533
+t1289155478
+s5427
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+i"Support/uthash.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCBlockSupport.h
+c000000004CD6F39600000000000007AA
+t1289155478
+s1962
+i<Foundation/Foundation.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCCamera.h
+c000000004CD6F3960000000000000B48
+t1289155478
+s2888
+i"CCNode.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCCameraAction.h
+c000000004CD6F39600000000000009AA
+t1289155478
+s2474
+i"CCIntervalAction.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCCompatibility.h
+c000000004CD6F3960000000000003891
+t1289155478
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCConfiguration.h
+c000000004CD6F3960000000000000A89
+t1289155478
+s2697
+i<OpenGLES/ES1/gl.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCDirector.h
+c000000004CD6F39600000000000041A6
+t1289155478
+s16806
+i"ccConfig.h"
+i"ccTypes.h"
+i"Support/EAGLView.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCDrawingPrimitives.h
+c000000004CD6F3960000000000000B1A
+t1289155478
+s2842
+i<CoreGraphics/CGGeometry.h>
+i<objc/objc.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCEaseAction.h
+c000000004CD6F3960000000000001671
+t1289155478
+s5745
+i"CCIntervalAction.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCGrabber.h
+c000000004CD6F39600000000000005FA
+t1289155478
+s1530
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<UIKit/UIKit.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCGrid.h
+c000000004CD6F3960000000000000E50
+t1289155478
+s3664
+i<UIKit/UIKit.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCGrid3DAction.h
+c000000004CD6F39600000000000019DF
+t1289155478
+s6623
+i"CCGridAction.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCGridAction.h
+c000000004CD6F39600000000000014A7
+t1289155478
+s5287
+i<UIKit/UIKit.h>
+i"CCIntervalAction.h"
+i"CCInstantAction.h"
+i"CCGrid.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCInstantAction.h
+c000000004CD6F3960000000000001178
+t1289155478
+s4472
+i<UIKit/UIKit.h>
+i"CCAction.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCIntervalAction.h
+c000000004CD6F3960000000000003266
+t1289155478
+s12902
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCLabel.h
+c000000004CD6F3960000000000000A19
+t1289155478
+s2585
+i"CCTexture2D.h"
+i"CCSprite.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCLabelAtlas.h
+c000000004CD6F396000000000000098E
+t1289155478
+s2446
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCLayer.h
+c000000004CD6F396000000000000139E
+t1289155478
+s5022
+i<UIKit/UIKit.h>
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCTouchDelegateProtocol.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCMenu.h
+c000000004CD6F3960000000000000AEE
+t1289155478
+s2798
+i<UIKit/UIKit.h>
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCMenuItem.h
+c000000004CD6F39600000000000031FC
+t1289155478
+s12796
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCMotionStreak.h
+c000000004CD6F3960000000000000B2A
+t1289155478
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCNode.h
+c000000004CD6F3960000000000003E93
+t1289155478
+s16019
+i<OpenGLES/ES1/gl.h>
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCPVRTexture.h
+c000000004CD6F3960000000000000CA5
+t1289155478
+s3237
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCPageTurn3DAction.h
+c000000004CD6F3960000000000000644
+t1289155478
+s1604
+i"CCGrid3DAction.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCPageTurnTransition.h
+c000000004CD6F39600000000000008F5
+t1289155478
+s2293
+i"CCTransition.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCParallaxNode.h
+c000000004CD6F396000000000000075B
+t1289155478
+s1883
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCParticleExamples.h
+c000000004CD6F39600000000000008C1
+t1289155478
+s2241
+i"CCPointParticleSystem.h"
+i"CCQuadParticleSystem.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCParticleSystem.h
+c000000004CD6F3960000000000003694
+t1289155478
+s13972
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCPointParticleSystem.h
+c000000004CD6F3960000000000000762
+t1289155478
+s1890
+i"CCParticleSystem.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCProgressTimer.h
+c000000004CD6F3960000000000000B48
+t1289155478
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCProgressTimerActions.h
+c000000004CD6F396000000000000088D
+t1289155478
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCIntervalAction.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCPropertyAction.h
+c000000004CD6F3960000000000000941
+t1289155478
+s2369
+i<Foundation/Foundation.h>
+i"CCIntervalAction.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCProtocols.h
+c000000004CD6F3960000000000000E35
+t1289155478
+s3637
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCQuadParticleSystem.h
+c000000004CD6F39600000000000009A2
+t1289155478
+s2466
+i"CCParticleSystem.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCRadialTransition.h
+c000000004CD6F39600000000000005F2
+t1289155478
+s1522
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCProgressTimerActions.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCRenderTexture.h
+c000000004CD6F3960000000000000A68
+t1289155478
+s2664
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCRibbon.h
+c000000004CD6F3960000000000000FCE
+t1289155478
+s4046
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i<OpenGLES/ES1/gl.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCScene.h
+c000000004CD6F3960000000000000691
+t1289155478
+s1681
+i<UIKit/UIKit.h>
+i"CCNode.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCScheduler.h
+c000000004CD6F39600000000000019FA
+t1289155478
+s6650
+i<Foundation/Foundation.h>
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCSprite.h
+c000000004CD6F3960000000000002EA9
+t1289155478
+s11945
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCSpriteFrame.h
+c000000004CD6F39600000000000013F5
+t1289155478
+s5109
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCSpriteFrameCache.h
+c000000004CD6F3960000000000000FF9
+t1289155478
+s4089
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCSpriteSheet.h
+c000000004CD6F3960000000000001762
+t1289155478
+s5986
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCTMXLayer.h
+c000000004CD6F3960000000000001820
+t1289155478
+s6176
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCTMXObjectGroup.h
+c000000004CD6F39600000000000008ED
+t1289155478
+s2285
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCTMXTiledMap.h
+c000000004CD6F39600000000000014EC
+t1289155478
+s5356
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCTMXXMLParser.h
+c000000004CD6F39600000000000015E1
+t1289155478
+s5601
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCTexture2D.h
+c000000004CD6F396000000000000262B
+t1289155478
+s9771
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCTextureAtlas.h
+c000000004CD6F3960000000000001477
+t1289155478
+s5239
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCTextureCache.h
+c000000004CD6F3960000000000001303
+t1289155478
+s4867
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGImage.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCTileMapAtlas.h
+c000000004CD6F3960000000000000B72
+t1289155478
+s2930
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCTiledGridAction.h
+c000000004CD6F3960000000000001A15
+t1289155478
+s6677
+i"CCGridAction.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCTouchDelegateProtocol.h
+c000000004CD6F3960000000000000AC5
+t1289155478
+s2757
+i<UIKit/UIKit.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCTouchDispatcher.h
+c000000004CD6F3960000000000000FC6
+t1289155478
+s4038
+i"CCTouchDelegateProtocol.h"
+i"Support/EAGLView.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCTouchHandler.h
+c000000004CD6F3960000000000000C9C
+t1289155478
+s3228
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/CCTransition.h
+c000000004CD6F3960000000000002130
+t1289155478
+s8496
+i"CCScene.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/Support/CCArray.h
+c000000004CD6F3960000000000000BBB
+t1289155478
+s3003
+i"ccCArray.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/Support/CCFileUtils.h
+c000000004CD6F396000000000000058C
+t1289155478
+s1420
+i<Foundation/Foundation.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/Support/CCProfiling.h
+c000000004CD6F39600000000000006E9
+t1289155478
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/Support/CGPointExtension.h
+c000000004CD6F3960000000000001E13
+t1289155478
+s7699
+i<CoreGraphics/CGGeometry.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/Support/EAGLView.h
+c000000004CD6F39600000000000017DD
+t1289155478
+s6109
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/Support/ESRenderer.h
+c000000004CD6F39600000000000005FB
+t1289155478
+s1531
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004CD6F39600000000000011A7
+t1289155478
+s4519
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/Support/TGAlib.h
+c000000004CD6F3960000000000000444
+t1289155478
+s1092
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/Support/ccCArray.h
+c000000004CD6F3960000000000003095
+t1289155478
+s12437
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/Support/uthash.h
+c000000004CD6F396000000000000FB13
+t1289155478
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/ccConfig.h
+c000000004CD6F3960000000000001ABD
+t1289155478
+s6845
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/ccMacros.h
+c000000004CD6F3960000000000001740
+t1289155478
+s5952
+i<math.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/ccTypes.h
+c000000004CD6F3960000000000001651
+t1289155478
+s5713
+i<objc/objc.h>
+i<CoreGraphics/CGGeometry.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/libs/cocos2d/cocos2d.h
+c000000004CD6F3960000000000000E62
+t1289155478
+s3682
+i"ccConfig.h"
+i"CCBlockSupport.h"
+i"CCAction.h"
+i"CCCamera.h"
+i"CCCameraAction.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCTouchDispatcher.h"
+i"CCTouchDelegateProtocol.h"
+i"CCInstantAction.h"
+i"CCIntervalAction.h"
+i"CCEaseAction.h"
+i"CCLabel.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCParticleSystem.h"
+i"CCPointParticleSystem.h"
+i"CCQuadParticleSystem.h"
+i"CCParticleExamples.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteFrameCache.h"
+i"CCTextureCache.h"
+i"CCTransition.h"
+i"CCTextureAtlas.h"
+i"CCLabelAtlas.h"
+i"CCAtlasNode.h"
+i"CCEaseAction.h"
+i"CCTiledGridAction.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCGrid3DAction.h"
+i"CCGridAction.h"
+i"CCBitmapFontAtlas.h"
+i"CCParallaxNode.h"
+i"CCActionManager.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCPageTurn3DAction.h"
+i"CCPageTurnTransition.h"
+i"CCTexture2D.h"
+i"CCPVRTexture.h"
+i"CCTouchHandler.h"
+i"CCConfiguration.h"
+i"CCRadialTransition.h"
+i"CCProgressTimerActions.h"
+i"CCPropertyAction.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Support/OpenGL_Internal.h"
+i"Support/EAGLView.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/main.m
+c000000004CD6F3960000000000000153
+t1289155478
+s339
+i<UIKit/UIKit.h>
+
+N/var/folders/J7/J7R6mIz7GLyZLIk7dqlMhU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wild Jack_Prefix-dvxhygypwtlnrxdorpoiebjfxsrq/Wild Jack_Prefix.pch.gch
+t1290434408
+s14896144
+
+NResources/Info.plist
+c000000004CDF166E000000000000038F
+t1289688686
+s911
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312127207#312127207#0(0"0(0#1#0"8606856192#0"0#
+
+CCompileC "build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/GameOverScene.o" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/GameOverScene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312127208.460575
+e312127208.715987
+r1
+xCompileC
+xbuild/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/GameOverScene.o
+x/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/GameOverScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/GameOverScene.m312127208#312127208#0(0"0(0#0#82"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/GameOverScene.m8605475744#2267"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -funroll-loops -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-generated-files.hmap" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-own-target-headers.hmap" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-all-target-headers.hmap" -iquote "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-project-headers.hmap" -Wall "-F/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/include" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/DerivedSources/i386" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/DerivedSources" -include "/var/folders/J7/J7R6mIz7GLyZLIk7dqlMhU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wild Jack_Prefix-dvxhygypwtlnrxdorpoiebjfxsrq/Wild Jack_Prefix.pch" -c "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/GameOverScene.m" -o "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/GameOverScene.o"0#
+
+CCompileC "build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/HelloWorldScene.o" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/HelloWorldScene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312127208.235460
+e312127208.919092
+r1
+xCompileC
+xbuild/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/HelloWorldScene.o
+x/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/HelloWorldScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/HelloWorldScene.m312127208#312127208#0(0"0(0#0#84"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/HelloWorldScene.m8606896992#2271"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -funroll-loops -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-generated-files.hmap" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-own-target-headers.hmap" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-all-target-headers.hmap" -iquote "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-project-headers.hmap" -Wall "-F/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/include" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/DerivedSources/i386" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/DerivedSources" -include "/var/folders/J7/J7R6mIz7GLyZLIk7dqlMhU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wild Jack_Prefix-dvxhygypwtlnrxdorpoiebjfxsrq/Wild Jack_Prefix.pch" -c "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/HelloWorldScene.m" -o "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/HelloWorldScene.o"0#
+
+CCompileC "build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/MenuScene.o" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/MenuScene.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312127208.716139
+e312127208.931721
+r1
+xCompileC
+xbuild/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/MenuScene.o
+x/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/MenuScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/MenuScene.m312127208#312127208#0(0"0(0#0#78"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/MenuScene.m8604956512#2259"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -funroll-loops -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-generated-files.hmap" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-own-target-headers.hmap" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-all-target-headers.hmap" -iquote "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-project-headers.hmap" -Wall "-F/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/include" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/DerivedSources/i386" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/DerivedSources" -include "/var/folders/J7/J7R6mIz7GLyZLIk7dqlMhU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wild Jack_Prefix-dvxhygypwtlnrxdorpoiebjfxsrq/Wild Jack_Prefix.pch" -c "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/MenuScene.m" -o "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/MenuScene.o"0#
+
+CCompileC "build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/main.o" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312127208.159738
+e312127208.235300
+r1
+xCompileC
+xbuild/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/main.o
+x/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/main.m312127208#312127208#0(0"0(0#0#65"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/main.m8600564928#2241"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -funroll-loops -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-generated-files.hmap" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-own-target-headers.hmap" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-all-target-headers.hmap" -iquote "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-project-headers.hmap" -Wall "-F/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/include" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/DerivedSources/i386" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/DerivedSources" -include "/var/folders/J7/J7R6mIz7GLyZLIk7dqlMhU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wild Jack_Prefix-dvxhygypwtlnrxdorpoiebjfxsrq/Wild Jack_Prefix.pch" -c "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/main.m" -o "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/simpleAppDelegate.o" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/simpleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312127208.161265
+e312127208.460427
+r1
+xCompileC
+xbuild/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/simpleAppDelegate.o
+x/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/simpleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/simpleAppDelegate.m312127208#312127208#0(0"0(0#0#86"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/simpleAppDelegate.m8599846272#2275"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -funroll-loops -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-generated-files.hmap" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-own-target-headers.hmap" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-all-target-headers.hmap" -iquote "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-project-headers.hmap" -Wall "-F/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/include" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/DerivedSources/i386" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/DerivedSources" -include "/var/folders/J7/J7R6mIz7GLyZLIk7dqlMhU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wild Jack_Prefix-dvxhygypwtlnrxdorpoiebjfxsrq/Wild Jack_Prefix.pch" -c "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Classes/simpleAppDelegate.m" -o "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/simpleAppDelegate.o"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/Default.png" Resources/Default.png
+s312127207.170865
+e312127207.186352
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/Default.png
+xResources/Default.png
+lSLF07#2@26"Copy Resources/Default.png312127207#312127207#0(0"0(0#0#80"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/Default.png8611276160#556"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/Default.png" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/Exitbutton.gif" Resources/Exitbutton.gif
+s312127207.163401
+e312127207.185824
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/Exitbutton.gif
+xResources/Exitbutton.gif
+lSLF07#2@29"Copy Resources/Exitbutton.gif312127207#312127207#0(0"0(0#0#83"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/Exitbutton.gif8614296032#559"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/Exitbutton.gif" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/Projectile.png" Resources/Projectile.png
+s312127207.190759
+e312127207.212743
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/Projectile.png
+xResources/Projectile.png
+lSLF07#2@29"Copy Resources/Projectile.png312127207#312127207#0(0"0(0#0#83"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/Projectile.png8609855552#559"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/Projectile.png" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/Target.png" Resources/Target.png
+s312127207.198155
+e312127207.213156
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/Target.png
+xResources/Target.png
+lSLF07#2@25"Copy Resources/Target.png312127207#312127207#0(0"0(0#0#79"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/Target.png8609424704#555"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/Target.png" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/aeshback.png" Resources/aeshback.png
+s312127207.164872
+e312127207.186095
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/aeshback.png
+xResources/aeshback.png
+lSLF07#2@27"Copy Resources/aeshback.png312127207#312127207#0(0"0(0#0#81"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/aeshback.png8611603936#557"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/aeshback.png" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/background-music-aac.caf" Resources/background-music-aac.caf
+s312127207.142766
+e312127207.184509
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/background-music-aac.caf
+xResources/background-music-aac.caf
+lSLF07#2@39"Copy Resources/background-music-aac.caf312127207#312127207#0(0"0(0#0#93"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/background-music-aac.caf8603689152#569"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/background-music-aac.caf" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/continuebutton.gif" Resources/continuebutton.gif
+s312127207.156306
+e312127207.185048
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/continuebutton.gif
+xResources/continuebutton.gif
+lSLF07#2@33"Copy Resources/continuebutton.gif312127207#312127207#0(0"0(0#0#87"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/continuebutton.gif8614457888#563"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/continuebutton.gif" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/credits.png" Resources/credits.png
+s312127207.174507
+e312127207.186580
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/credits.png
+xResources/credits.png
+lSLF07#2@26"Copy Resources/credits.png312127207#312127207#0(0"0(0#0#80"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/credits.png8610774368#556"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/credits.png" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/fps_images.png" Resources/fps_images.png
+s312127207.141257
+e312127207.184271
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/fps_images.png
+xResources/fps_images.png
+lSLF07#2@29"Copy Resources/fps_images.png312127207#312127207#0(0"0(0#0#83"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/fps_images.png8605013440#559"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/fps_images.png" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/icon.png" Resources/icon.png
+s312127207.203463
+e312127207.213595
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/icon.png
+xResources/icon.png
+lSLF07#2@23"Copy Resources/icon.png312127207#312127207#0(0"0(0#0#77"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/icon.png8609300864#553"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/icon.png" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/menuback.png" Resources/menuback.png
+s312127207.178004
+e312127207.213800
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/menuback.png
+xResources/menuback.png
+lSLF07#2@27"Copy Resources/menuback.png312127207#312127207#0(0"0(0#0#81"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/menuback.png8610370656#557"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/menuback.png" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/new.png" Resources/new.png
+s312127207.182158
+e312127207.213993
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/new.png
+xResources/new.png
+lSLF07#2@22"Copy Resources/new.png312127207#312127207#0(0"0(0#0#76"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/new.png8610135424#552"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/new.png" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/pauseBackground.gif" Resources/pauseBackground.gif
+s312127207.201981
+e312127207.213378
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/pauseBackground.gif
+xResources/pauseBackground.gif
+lSLF07#2@34"Copy Resources/pauseBackground.gif312127207#312127207#0(0"0(0#0#88"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/pauseBackground.gif8609371520#564"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/pauseBackground.gif" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/pausebutton.gif" Resources/pausebutton.gif
+s312127207.210231
+e312127207.217974
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/pausebutton.gif
+xResources/pausebutton.gif
+lSLF07#2@30"Copy Resources/pausebutton.gif312127207#312127207#0(0"0(0#0#84"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/pausebutton.gif8609055616#560"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/pausebutton.gif" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/pew-pew-lei.caf" Resources/pew-pew-lei.caf
+s312127207.152168
+e312127207.184750
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/pew-pew-lei.caf
+xResources/pew-pew-lei.caf
+lSLF07#2@30"Copy Resources/pew-pew-lei.caf312127207#312127207#0(0"0(0#0#84"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/pew-pew-lei.caf8600747840#560"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/pew-pew-lei.caf" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/player.png" Resources/player.png
+s312127207.186708
+e312127207.212493
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/player.png
+xResources/player.png
+lSLF07#2@25"Copy Resources/player.png312127207#312127207#0(0"0(0#0#79"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/player.png8610007520#555"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/player.png" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CCpResource "build/Release-iphonesimulator/Wild Jack.app/score.png" Resources/score.png
+s312127207.194733
+e312127207.212948
+r1
+xCpResource
+xbuild/Release-iphonesimulator/Wild Jack.app/score.png
+xResources/score.png
+lSLF07#2@24"Copy Resources/score.png312127207#312127207#0(0"0(0#0#78"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/score.png8609627872#554"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/score.png" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
+CGenerateDSYMFile "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app.dSYM" "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Wild Jack"
+s312127209.272420
+e312127209.442599
+r1
+xGenerateDSYMFile
+x/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app.dSYM
+x/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Wild Jack
+lSLF07#2@123"GenerateDSYMFile "build/Release-iphonesimulator/Wild Jack.app.dSYM" "build/Release-iphonesimulator/Wild Jack.app/Wild Jack"312127209#312127209#0(0"0(0#0#112"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Wild Jack8610326432#459"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Wild Jack" -o "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app.dSYM"0#
+
+CLd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Wild Jack" normal i386
+s312127208.931853
+e312127209.272279
+r1
+xLd
+x/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Wild Jack
+xnormal
+xi386
+lSLF07#2@117"Link /Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Wild Jack312127208#312127209#0(0"0(0#0#0"8603869024#1178"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator" "-F/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator" -filelist "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Objects-normal/i386/Wild Jack.LinkFileList" -mmacosx-version-min=10.6 -all_load -ObjC -Xlinker -objc_abi_version -Xlinker 2 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -o "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Wild Jack"0#
+
+CProcessInfoPlistFile "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Info.plist" Resources/Info.plist
+s312127207.128682
+e312127207.141114
+r1
+xProcessInfoPlistFile
+x/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist312127207#312127207#0(0"0(0#0#79"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Resources/Info.plist8607702496#555"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app/Info.plist"0#
+
+CProcessPCH "/var/folders/J7/J7R6mIz7GLyZLIk7dqlMhU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wild Jack_Prefix-dvxhygypwtlnrxdorpoiebjfxsrq/Wild Jack_Prefix.pch.gch" "Wild Jack_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312127207.218140
+e312127208.159493
+r1
+xProcessPCH
+x/var/folders/J7/J7R6mIz7GLyZLIk7dqlMhU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wild Jack_Prefix-dvxhygypwtlnrxdorpoiebjfxsrq/Wild Jack_Prefix.pch.gch
+xWild Jack_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Wild Jack_Prefix.pch312127207#312127208#0(0"0(0#0#79"/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Wild Jack_Prefix.pch8607259808#2107"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -funroll-loops -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-generated-files.hmap" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-own-target-headers.hmap" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-all-target-headers.hmap" -iquote "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/Wild Jack-project-headers.hmap" -Wall "-F/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/include" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/DerivedSources/i386" "-I/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Wild Jack.build/Release-iphonesimulator/Wild Jack.build/DerivedSources" -c "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/Wild Jack_Prefix.pch" -o "/var/folders/J7/J7R6mIz7GLyZLIk7dqlMhU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wild Jack_Prefix-dvxhygypwtlnrxdorpoiebjfxsrq/Wild Jack_Prefix.pch.gch"0#
+
+CTouch "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"
+s312127209.442729
+e312127209.447451
+r1
+xTouch
+x/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app
+lSLF07#2@108"Touch /Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app312127209#312127209#0(0"0(0#0#0"8610048224#326"    cd "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/aeshverma/Documents/simplewiithmenu/simple/simple 2/build/Release-iphonesimulator/Wild Jack.app"0#
+
